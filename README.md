@@ -4,7 +4,7 @@ Published Analysis: "Identity Verification and Credit Scoring Practices Using Po
 
 This repository provides a detailed analysis of how credit reporting agencies around the world use postal code and location data. The focus is on identity verification, with findings showing that globally, postal data is not directly used in credit scoring models — with only one known exception in Australia.
 
-🔒 **Data Transparency Note**: The analysis is based on public regulatory information and research findings. No personal or sensitive financial data is included.
+> 🔒 **Data Transparency Note**: The analysis is based on public regulatory information and research findings. No personal or sensitive financial data is included.
 ---
 
 ## 📁 Files Included
@@ -21,7 +21,7 @@ This repository provides a detailed analysis of how credit reporting agencies ar
 
 ## 📑 Role of credit reports in ID checks
 
-💡 **Tip**: Open .html directly in your browser to view the complete report with structured content and visual sections.
+> 💡 **Tip**: Open .html directly in your browser to view the complete report with structured content and visual sections.
 ---
 
 ## 📜 Project Overview
