@@ -8,7 +8,7 @@ This repository provides a detailed analysis of how credit reporting agencies ar
 ---
 
 ## 📁 Files Included
-- `postal-credit.html` → A fully styled HTML report containing
+- `Postal-credit.html` → A fully styled HTML report containing
 ---
 
 ## ✅ Identity verification practices
@@ -40,4 +40,4 @@ This research reveals:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   https://famo78.github.io/geolocation-credit-usage/postal-credit.html
+   https://famo78.github.io/geolocation-credit-usage/Postal-credit.html
