@@ -28,11 +28,12 @@ This repository provides a detailed analysis of how credit reporting agencies ar
 Postal data (addresses and postal codes) plays a crucial role in identity verification and fraud prevention within credit reporting systems worldwide.
 This research reveals:
 
-Global Rule: Postal codes are not factored directly into credit scoring algorithms.
+1. Global Rule: Postal codes are not factored directly into credit scoring algorithms.
 
-Exception: Australia’s Equifax “Next Generation Score” includes postal code data as part of its model.
+2. Exception: Australia’s Equifax “Next Generation Score” includes postal code data as part of its model.
 
-Indirect Influence: Residential stability can indirectly affect creditworthiness in lender-specific evaluations.
+3. Indirect Influence: Residential stability can indirectly affect creditworthiness in lender-specific evaluations.
+
 ---
 
 ## 🚀 How to Use
