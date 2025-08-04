@@ -13,10 +13,10 @@ This repository provides a detailed analysis of how credit reporting agencies ar
 
 ## ✅ Identity verification practices
 
-1.  🌐 **Global standard (non-usage in scoring)**
+🌐 **Global standard (non-usage in scoring)**
 🇦🇺 Australian exception
 
-2. 🏠 **Indirect influence of residential stability**
+🏠 **Indirect influence of residential stability**
 ---
 
 ## 📑 Role of credit reports in ID checks
